@@ -1,0 +1,32 @@
+/* *{
+    padding:0px;
+    margin: 0px;
+} */
+
+nav{
+    background-color:black;
+    position: fixed;
+    width: 100%;
+}
+
+div{
+    border: 2px solid #10336c;
+    background-color:#f5ebeb;
+    height: 50px;
+    padding: 8px;
+    margin-bottom: 8px;
+    font-size: 36px;
+    position: sticky;
+    top:10px;
+    margin-top: 0px;
+}
+
+ul{
+    border: 2px solid yellow;
+    background-color: pink;
+
+}
+
+body{
+    background-color: lightseagreen;
+}
